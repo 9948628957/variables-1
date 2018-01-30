@@ -1,0 +1,945 @@
+{"merchants":[
+ {
+   "merchantCity": "Madison",
+   "merchantCountryCode": 76,
+   "merchantId": 10407600000000,
+   "merchantName": "Round Rock Donuts",
+   "merchantPostalCode": 47940,
+   "merchantType": "HIGH RISK MCCs"
+ },
+ {
+   "merchantCity": "Austin",
+   "merchantCountryCode": 76,
+   "merchantId": 10407600000000,
+   "merchantName": "Cooper Tire #2566",
+   "merchantPostalCode": 78704,
+   "merchantType": "HIGH RISK MCCs"
+ },
+ {
+   "merchantCity": "Austin",
+   "merchantCountryCode": 76,
+   "merchantId": 10407600000000,
+   "merchantName": "Dollar Sargeant",
+   "merchantPostalCode": 94201,
+   "merchantType": "HIGH RISK MCCs"
+ },
+ {
+   "merchantCity": "Austin",
+   "merchantCountryCode": 76,
+   "merchantId": 10399700000000,
+   "merchantName": "CraftsOnline.com",
+   "merchantPostalCode": 42923,
+   "merchantType": "HIGH RISK MCCs"
+ },
+ {
+   "merchantCity": "Round Rock",
+   "merchantCountryCode": 76,
+   "merchantId": 46338390,
+   "merchantName": "Stetsy.com",
+   "merchantPostalCode": 78658,
+   "merchantType": "HIGH RISK MCCs"
+ },
+ {
+   "merchantCity": "Huntsville ",
+   "merchantCountryCode": 840,
+   "merchantId": 395700000000,
+   "merchantName": "Rondo Shack #36552",
+   "merchantPostalCode": 35801,
+   "merchantType": "HIGH RISK MCCs"
+ },
+ {
+   "merchantCity": "Phoenix",
+   "merchantCountryCode": 76,
+   "merchantId": 10339300000000,
+   "merchantName": "Office Supply #65895",
+   "merchantPostalCode": 92277,
+   "merchantType": "MED RISK MCCs"
+ },
+ {
+   "merchantCity": "VOLTA REDONDA",
+   "merchantCountryCode": 76,
+   "merchantId": 10438800000000,
+   "merchantName": "Holton Garden Inn #1245",
+   "merchantPostalCode": 59154,
+   "merchantType": "MED RISK MCCs"
+ },
+ {
+   "merchantCity": "SAO PAULO",
+   "merchantCountryCode": 76,
+   "merchantId": 11114215,
+   "merchantName": "Toro Company",
+   "merchantPostalCode": 28033,
+   "merchantType": "HIGH RISK MCCs"
+ },
+ {
+   "merchantCity": "Huntsville",
+   "merchantCountryCode": 840,
+   "merchantId": 89728000000000,
+   "merchantName": "Bobs Grocer",
+   "merchantPostalCode": 35801,
+   "merchantType": "MED RISK MCCs"
+ },
+ {
+   "merchantCity": "SAO PAULO",
+   "merchantCountryCode": 76,
+   "merchantId": 10096647,
+   "merchantName": "Tims Liquors",
+   "merchantPostalCode": 60303,
+   "merchantType": "HIGH RISK MCCs"
+ },
+ {
+   "merchantCity": "Manor",
+   "merchantCountryCode": 76,
+   "merchantId": 41874587,
+   "merchantName": "Research Cleaners $234",
+   "merchantPostalCode": 79865,
+   "merchantType": "HIGH RISK MCCs"
+ },
+ {
+   "merchantCity": "Austin",
+   "merchantCountryCode": 76,
+   "merchantId": 11114215,
+   "merchantName": "Arboretum Car Wash",
+   "merchantPostalCode": 78759,
+   "merchantType": "HIGH RISK MCCs"
+ },
+ {
+   "merchantCity": "Austin",
+   "merchantCountryCode": 76,
+   "merchantId": 39698920,
+   "merchantName": "videofanatics.com",
+   "merchantPostalCode": 78701,
+   "merchantType": "HIGH RISK MCCs"
+ },
+ {
+   "merchantCity": "ALEXANDRIA",
+   "merchantCountryCode": 840,
+   "merchantId": 219041000000000,
+   "merchantName": "Great Cuts #15698",
+   "merchantPostalCode": 33301,
+   "merchantType": "LOW RISK MCCs"
+ },
+ {
+   "merchantCity": "SAO PAULO",
+   "merchantCountryCode": 76,
+   "merchantId": 10273600000000,
+   "merchantName": "Joes Hardware #69885",
+   "merchantPostalCode": 76505,
+   "merchantType": "LOW RISK MCCs"
+ },
+ {
+   "merchantCity": "Austin",
+   "merchantCountryCode": 76,
+   "merchantId": 15892913,
+   "merchantName": "Ricks Cleaners #21",
+   "merchantPostalCode": 78585,
+   "merchantType": "HIGH RISK MCCs"
+ },
+ {
+   "merchantCity": "SAO PAULO",
+   "merchantCountryCode": 76,
+   "merchantId": 41874587,
+   "merchantName": "Eds Welding  #56920",
+   "merchantPostalCode": 79238,
+   "merchantType": "HIGH RISK MCCs"
+ },
+ {
+   "merchantCity": "ALEXANDRIA",
+   "merchantCountryCode": 840,
+   "merchantId": 219041000000000,
+   "merchantName": "Matts El Ranhorette",
+   "merchantPostalCode": 43996,
+   "merchantType": "LOW RISK MCCs"
+ },
+ {
+   "merchantCity": "Denver",
+   "merchantCountryCode": 840,
+   "merchantId": 745501000000000,
+   "merchantName": "Saltine Steakhouse",
+   "merchantPostalCode": 80201,
+   "merchantType": "HIGH RISK MCCs"
+ },
+ {
+   "merchantCity": "Denver",
+   "merchantCountryCode": 840,
+   "merchantId": 745501000000000,
+   "merchantName": "CCBill.com*Excelsior",
+   "merchantPostalCode": 80201,
+   "merchantType": "HIGH RISK MCCs"
+ },
+ {
+   "merchantCity": "877-3278914",
+   "merchantCountryCode": 840,
+   "merchantId": 395700000000,
+   "merchantName": "Rondo Shack #36552",
+   "merchantPostalCode": 33863,
+   "merchantType": "HIGH RISK MCCs"
+ },
+ {
+   "merchantCity": "Denver",
+   "merchantCountryCode": 76,
+   "merchantId": 10339300000000,
+   "merchantName": "Office Supply #65895",
+   "merchantPostalCode": 80201,
+   "merchantType": "MED RISK MCCs"
+ },
+ {
+   "merchantCity": "800-927-7671",
+   "merchantCountryCode": 840,
+   "merchantId": 89728000000000,
+   "merchantName": "Bobs Grocer",
+   "merchantPostalCode": 95907,
+   "merchantType": "MED RISK MCCs"
+ },
+ {
+   "merchantCity": "Denver",
+   "merchantCountryCode": 76,
+   "merchantId": 10096647,
+   "merchantName": "Tims Liquors",
+   "merchantPostalCode": 80201,
+   "merchantType": "HIGH RISK MCCs"
+ },
+ {
+   "merchantCity": "888-5969279",
+   "merchantCountryCode": 840,
+   "merchantId": 745501000000000,
+   "merchantName": "Saltine Steakhouse",
+   "merchantPostalCode": 32919,
+   "merchantType": "HIGH RISK MCCs"
+ },
+ {
+   "merchantCity": "Orlando",
+   "merchantCountryCode": 840,
+   "merchantId": 745501000000000,
+   "merchantName": "CCBill.com*Excelsior",
+   "merchantPostalCode": 32801,
+   "merchantType": "HIGH RISK MCCs"
+ },
+ {
+   "merchantCity": "Bangalore",
+   "merchantCountryCode": 356,
+   "merchantId": 10407600000000,
+   "merchantName": "Round Rock Donuts",
+   "merchantPostalCode": 560017,
+   "merchantType": "HIGH RISK MCCs"
+ },
+ {
+   "merchantCity": "Bangalore",
+   "merchantCountryCode": 356,
+   "merchantId": 10407600000000,
+   "merchantName": "Cooper Tire #2566",
+   "merchantPostalCode": 560056,
+   "merchantType": "HIGH RISK MCCs"
+ },
+ {
+   "merchantCity": "Bangalore",
+   "merchantCountryCode": 356,
+   "merchantId": 10407600000000,
+   "merchantName": "Dollar Sargeant",
+   "merchantPostalCode": 560078,
+   "merchantType": "HIGH RISK MCCs"
+ },
+ {
+   "merchantCity": "Bangalore",
+   "merchantCountryCode": 356,
+   "merchantId": 10399700000000,
+   "merchantName": "CraftsOnline.com",
+   "merchantPostalCode": 560017,
+   "merchantType": "HIGH RISK MCCs"
+ },
+ {
+   "merchantCity": "Mumbai",
+   "merchantCountryCode": 356,
+   "merchantId": 46338390,
+   "merchantName": "Stetsy.com",
+   "merchantPostalCode": 40008,
+   "merchantType": "HIGH RISK MCCs"
+ },
+ {
+   "merchantCity": "Chennai",
+   "merchantCountryCode": 356,
+   "merchantId": 395700000000,
+   "merchantName": "Rondo Shack #36552",
+   "merchantPostalCode": 600024,
+   "merchantType": "HIGH RISK MCCs"
+ },
+ {
+   "merchantCity": "Delhi",
+   "merchantCountryCode": 356,
+   "merchantId": 10339300000000,
+   "merchantName": "Office Supply #65895",
+   "merchantPostalCode": 110002,
+   "merchantType": "MED RISK MCCs"
+ },
+ {
+   "merchantCity": "Delhi",
+   "merchantCountryCode": 356,
+   "merchantId": 10438800000000,
+   "merchantName": "Holton Garden Inn #1245",
+   "merchantPostalCode": 110018,
+   "merchantType": "MED RISK MCCs"
+ },
+ {
+   "merchantCity": "Delhi",
+   "merchantCountryCode": 356,
+   "merchantId": 11114215,
+   "merchantName": "Toro Company",
+   "merchantPostalCode": 110017,
+   "merchantType": "HIGH RISK MCCs"
+ },
+ {
+   "merchantCity": "Delhi",
+   "merchantCountryCode": 356,
+   "merchantId": 89728000000000,
+   "merchantName": "Bobs Grocer",
+   "merchantPostalCode": 110015,
+   "merchantType": "MED RISK MCCs"
+ },
+ {
+   "merchantCity": "Beijing",
+   "merchantCountryCode": 156,
+   "merchantId": 10407600000000,
+   "merchantName": "Round Rock Donuts",
+   "merchantPostalCode": 100000,
+   "merchantType": "HIGH RISK MCCs"
+ },
+ {
+   "merchantCity": "Beijing",
+   "merchantCountryCode": 156,
+   "merchantId": 10407600000000,
+   "merchantName": "Cooper Tire #2566",
+   "merchantPostalCode": 100000,
+   "merchantType": "HIGH RISK MCCs"
+ },
+ {
+   "merchantCity": "Beijing",
+   "merchantCountryCode": 156,
+   "merchantId": 10407600000000,
+   "merchantName": "Dollar Sargeant",
+   "merchantPostalCode": 100000,
+   "merchantType": "HIGH RISK MCCs"
+ },
+ {
+   "merchantCity": "Chengdu",
+   "merchantCountryCode": 156,
+   "merchantId": 10399700000000,
+   "merchantName": "CraftsOnline.com",
+   "merchantPostalCode": 610000,
+   "merchantType": "HIGH RISK MCCs"
+ },
+ {
+   "merchantCity": "Chengdu",
+   "merchantCountryCode": 156,
+   "merchantId": 46338390,
+   "merchantName": "Stetsy.com",
+   "merchantPostalCode": 610000,
+   "merchantType": "HIGH RISK MCCs"
+ },
+ {
+   "merchantCity": "Chengdu",
+   "merchantCountryCode": 156,
+   "merchantId": 395700000000,
+   "merchantName": "Rondo Shack #36552",
+   "merchantPostalCode": 610000,
+   "merchantType": "HIGH RISK MCCs"
+ },
+ {
+   "merchantCity": "Chongqing",
+   "merchantCountryCode": 156,
+   "merchantId": 10339300000000,
+   "merchantName": "Office Supply #65895",
+   "merchantPostalCode": 404000,
+   "merchantType": "MED RISK MCCs"
+ },
+ {
+   "merchantCity": "Chongqing",
+   "merchantCountryCode": 156,
+   "merchantId": 10438800000000,
+   "merchantName": "Holton Garden Inn #1245",
+   "merchantPostalCode": 404000,
+   "merchantType": "MED RISK MCCs"
+ },
+ {
+   "merchantCity": "Chongqing",
+   "merchantCountryCode": 156,
+   "merchantId": 11114215,
+   "merchantName": "Toro Company",
+   "merchantPostalCode": 404000,
+   "merchantType": "HIGH RISK MCCs"
+ },
+ {
+   "merchantCity": "Dunhuang",
+   "merchantCountryCode": 156,
+   "merchantId": 89728000000000,
+   "merchantName": "Bobs Grocer",
+   "merchantPostalCode": 736200,
+   "merchantType": "MED RISK MCCs"
+ },
+ {
+   "merchantCity": "ALPURRURULAM",
+   "merchantCountryCode": 36,
+   "merchantId": 10407600000000,
+   "merchantName": "Round Rock Donuts",
+   "merchantPostalCode": 4825,
+   "merchantType": "HIGH RISK MCCs"
+ },
+ {
+   "merchantCity": "ALPURRURULAM",
+   "merchantCountryCode": 36,
+   "merchantId": 10407600000000,
+   "merchantName": "Cooper Tire #2566",
+   "merchantPostalCode": 4825,
+   "merchantType": "HIGH RISK MCCs"
+ },
+ {
+   "merchantCity": "ALPURRURULAM",
+   "merchantCountryCode": 36,
+   "merchantId": 10407600000000,
+   "merchantName": "Dollar Sargeant",
+   "merchantPostalCode": 4825,
+   "merchantType": "HIGH RISK MCCs"
+ },
+ {
+   "merchantCity": "ERNABELLA",
+   "merchantCountryCode": 36,
+   "merchantId": 10399700000000,
+   "merchantName": "CraftsOnline.com",
+   "merchantPostalCode": 872,
+   "merchantType": "HIGH RISK MCCs"
+ },
+ {
+   "merchantCity": "ERNABELLA",
+   "merchantCountryCode": 36,
+   "merchantId": 46338390,
+   "merchantName": "Stetsy.com",
+   "merchantPostalCode": 872,
+   "merchantType": "HIGH RISK MCCs"
+ },
+ {
+   "merchantCity": "ERNABELLA",
+   "merchantCountryCode": 36,
+   "merchantId": 395700000000,
+   "merchantName": "Rondo Shack #36552",
+   "merchantPostalCode": 872,
+   "merchantType": "HIGH RISK MCCs"
+ },
+ {
+   "merchantCity": "FREGON",
+   "merchantCountryCode": 36,
+   "merchantId": 10339300000000,
+   "merchantName": "Office Supply #65895",
+   "merchantPostalCode": 872,
+   "merchantType": "MED RISK MCCs"
+ },
+ {
+   "merchantCity": "FREGON",
+   "merchantCountryCode": 36,
+   "merchantId": 10438800000000,
+   "merchantName": "Holton Garden Inn #1245",
+   "merchantPostalCode": 872,
+   "merchantType": "MED RISK MCCs"
+ },
+ {
+   "merchantCity": "FREGON",
+   "merchantCountryCode": 36,
+   "merchantId": 11114215,
+   "merchantName": "Toro Company",
+   "merchantPostalCode": 872,
+   "merchantType": "HIGH RISK MCCs"
+ },
+ {
+   "merchantCity": "INDULKANA",
+   "merchantCountryCode": 36,
+   "merchantId": 89728000000000,
+   "merchantName": "Bobs Grocer",
+   "merchantPostalCode": 872,
+   "merchantType": "MED RISK MCCs"
+ },
+ {
+   "merchantCity": "Washington",
+   "merchantCountryCode": 840,
+   "merchantId": 10407600000000,
+   "merchantName": "Round Rock Donuts",
+   "merchantPostalCode": 20001,
+   "merchantType": "HIGH RISK MCCs"
+ },
+ {
+   "merchantCity": "Walhalla",
+   "merchantCountryCode": 840,
+   "merchantId": 10407600000000,
+   "merchantName": "Cooper Tire #2566",
+   "merchantPostalCode": 58282,
+   "merchantType": "HIGH RISK MCCs"
+ },
+ {
+   "merchantCity": "Laurel",
+   "merchantCountryCode": 840,
+   "merchantId": 10407600000000,
+   "merchantName": "Dollar Sargeant",
+   "merchantPostalCode": 59044,
+   "merchantType": "HIGH RISK MCCs"
+ },
+ {
+   "merchantCity": "Los angeles",
+   "merchantCountryCode": 840,
+   "merchantId": 10399700000000,
+   "merchantName": "CraftsOnline.com",
+   "merchantPostalCode": 90001,
+   "merchantType": "HIGH RISK MCCs"
+ },
+ {
+   "merchantCity": "Phoenix",
+   "merchantCountryCode": 840,
+   "merchantId": 46338390,
+   "merchantName": "Stetsy.com",
+   "merchantPostalCode": 85001,
+   "merchantType": "HIGH RISK MCCs"
+ },
+ {
+   "merchantCity": "Santa Fe",
+   "merchantCountryCode": 840,
+   "merchantId": 395700000000,
+   "merchantName": "Rondo Shack #36552",
+   "merchantPostalCode": 87500,
+   "merchantType": "HIGH RISK MCCs"
+ },
+ {
+   "merchantCity": "Austin",
+   "merchantCountryCode": 840,
+   "merchantId": 10339300000000,
+   "merchantName": "Office Supply #65895",
+   "merchantPostalCode": 78701,
+   "merchantType": "MED RISK MCCs"
+ },
+ {
+   "merchantCity": "New Orleans",
+   "merchantCountryCode": 840,
+   "merchantId": 10438800000000,
+   "merchantName": "Holton Garden Inn",
+   "merchantPostalCode": 70112,
+   "merchantType": "MED RISK MCCs"
+ },
+ {
+   "merchantCity": "Biloxi",
+   "merchantCountryCode": 840,
+   "merchantId": 11114215,
+   "merchantName": "Toro Company",
+   "merchantPostalCode": 39530,
+   "merchantType": "HIGH RISK MCCs"
+ },
+ {
+   "merchantCity": "Cleveland",
+   "merchantCountryCode": 840,
+   "merchantId": 10407600000000,
+   "merchantName": "Round Rock Donuts",
+   "merchantPostalCode": 44101,
+   "merchantType": "HIGH RISK MCCs"
+ },
+ {
+   "merchantCity": "New York",
+   "merchantCountryCode": 840,
+   "merchantId": 10407600000000,
+   "merchantName": "Cooper Tire #2566",
+   "merchantPostalCode": 10001,
+   "merchantType": "HIGH RISK MCCs"
+ },
+ {
+   "merchantCity": "Denver",
+   "merchantCountryCode": 840,
+   "merchantId": 10407600000000,
+   "merchantName": "Dollar Sargeant",
+   "merchantPostalCode": 80201,
+   "merchantType": "HIGH RISK MCCs"
+ },
+ {
+   "merchantCity": "Reno",
+   "merchantCountryCode": 840,
+   "merchantId": 10399700000000,
+   "merchantName": "CraftsOnline.com",
+   "merchantPostalCode": 89501,
+   "merchantType": "HIGH RISK MCCs"
+ },
+ {
+   "merchantCity": "Washington",
+   "merchantCountryCode": 840,
+   "merchantId": 10407600000000,
+   "merchantName": "Round Rock Donuts",
+   "merchantPostalCode": 20002,
+   "merchantType": "HIGH RISK MCCs"
+ },
+ {
+   "merchantCity": "Los angeles",
+   "merchantCountryCode": 840,
+   "merchantId": 10399700000000,
+   "merchantName": "CraftsOnline.com",
+   "merchantPostalCode": 90002,
+   "merchantType": "HIGH RISK MCCs"
+ },
+ {
+   "merchantCity": "Phoenix",
+   "merchantCountryCode": 840,
+   "merchantId": 46338390,
+   "merchantName": "Stetsy.com",
+   "merchantPostalCode": 85002,
+   "merchantType": "HIGH RISK MCCs"
+ },
+ {
+   "merchantCity": "Santa Fe",
+   "merchantCountryCode": 840,
+   "merchantId": 395700000000,
+   "merchantName": "Rondo Shack #36552",
+   "merchantPostalCode": 87502,
+   "merchantType": "HIGH RISK MCCs"
+ },
+ {
+   "merchantCity": "Austin",
+   "merchantCountryCode": 840,
+   "merchantId": 10339300000000,
+   "merchantName": "Office Supply #65895",
+   "merchantPostalCode": 78702,
+   "merchantType": "MED RISK MCCs"
+ },
+ {
+   "merchantCity": "New Orleans",
+   "merchantCountryCode": 840,
+   "merchantId": 10438800000000,
+   "merchantName": "Holton Garden Inn",
+   "merchantPostalCode": 70113,
+   "merchantType": "MED RISK MCCs"
+ },
+ {
+   "merchantCity": "Biloxi",
+   "merchantCountryCode": 840,
+   "merchantId": 11114215,
+   "merchantName": "Toro Company",
+   "merchantPostalCode": 39531,
+   "merchantType": "HIGH RISK MCCs"
+ },
+ {
+   "merchantCity": "Huntsville",
+   "merchantCountryCode": 840,
+   "merchantId": 89728000000000,
+   "merchantName": "Bobs Grocer",
+   "merchantPostalCode": 35802,
+   "merchantType": "MED RISK MCCs"
+ },
+ {
+   "merchantCity": "Cleveland",
+   "merchantCountryCode": 840,
+   "merchantId": 10407600000000,
+   "merchantName": "Round Rock Donuts",
+   "merchantPostalCode": 44103,
+   "merchantType": "HIGH RISK MCCs"
+ },
+ {
+   "merchantCity": "New York",
+   "merchantCountryCode": 840,
+   "merchantId": 10407600000000,
+   "merchantName": "Cooper Tire #2566",
+   "merchantPostalCode": 10004,
+   "merchantType": "HIGH RISK MCCs"
+ },
+ {
+   "merchantCity": "Denver",
+   "merchantCountryCode": 840,
+   "merchantId": 10407600000000,
+   "merchantName": "Dollar Sargeant",
+   "merchantPostalCode": 80205,
+   "merchantType": "HIGH RISK MCCs"
+ },
+ {
+   "merchantCity": "Logan",
+   "merchantCountryCode": 840,
+   "merchantId": 10399700000000,
+   "merchantName": "CraftsOnline.com",
+   "merchantPostalCode": 84326,
+   "merchantType": "HIGH RISK MCCs"
+ },
+ {
+   "merchantCity": "Reno",
+   "merchantCountryCode": 840,
+   "merchantId": 10399700000000,
+   "merchantName": "CraftsOnline.com",
+   "merchantPostalCode": 89502,
+   "merchantType": "HIGH RISK MCCs"
+ },
+ {
+   "merchantCity": "Washington",
+   "merchantCountryCode": 840,
+   "merchantId": 10407600000000,
+   "merchantName": "Round Rock Donuts",
+   "merchantPostalCode": 20003,
+   "merchantType": "HIGH RISK MCCs"
+ },
+ {
+   "merchantCity": "Los angeles",
+   "merchantCountryCode": 840,
+   "merchantId": 10399700000000,
+   "merchantName": "CraftsOnline.com",
+   "merchantPostalCode": 90003,
+   "merchantType": "HIGH RISK MCCs"
+ },
+ {
+   "merchantCity": "Phoenix",
+   "merchantCountryCode": 840,
+   "merchantId": 46338390,
+   "merchantName": "Stetsy.com",
+   "merchantPostalCode": 85003,
+   "merchantType": "HIGH RISK MCCs"
+ },
+ {
+   "merchantCity": "Santa Fe",
+   "merchantCountryCode": 840,
+   "merchantId": 395700000000,
+   "merchantName": "Rondo Shack #36552",
+   "merchantPostalCode": 87503,
+   "merchantType": "HIGH RISK MCCs"
+ },
+ {
+   "merchantCity": "Austin",
+   "merchantCountryCode": 840,
+   "merchantId": 10339300000000,
+   "merchantName": "Office Supply #65895",
+   "merchantPostalCode": 78703,
+   "merchantType": "MED RISK MCCs"
+ },
+ {
+   "merchantCity": "New Orleans",
+   "merchantCountryCode": 840,
+   "merchantId": 10438800000000,
+   "merchantName": "Holton Garden Inn",
+   "merchantPostalCode": 70114,
+   "merchantType": "MED RISK MCCs"
+ },
+ {
+   "merchantCity": "Biloxi",
+   "merchantCountryCode": 840,
+   "merchantId": 11114215,
+   "merchantName": "Toro Company",
+   "merchantPostalCode": 39532,
+   "merchantType": "HIGH RISK MCCs"
+ },
+ {
+   "merchantCity": "Cleveland",
+   "merchantCountryCode": 840,
+   "merchantId": 10407600000000,
+   "merchantName": "Round Rock Donuts",
+   "merchantPostalCode": 44102,
+   "merchantType": "HIGH RISK MCCs"
+ },
+ {
+   "merchantCity": "New York",
+   "merchantCountryCode": 840,
+   "merchantId": 10407600000000,
+   "merchantName": "Cooper Tire #2566",
+   "merchantPostalCode": 10002,
+   "merchantType": "HIGH RISK MCCs"
+ },
+ {
+   "merchantCity": "Denver",
+   "merchantCountryCode": 840,
+   "merchantId": 10407600000000,
+   "merchantName": "Dollar Sargeant",
+   "merchantPostalCode": 80202,
+   "merchantType": "HIGH RISK MCCs"
+ },
+ {
+   "merchantCity": "Logan",
+   "merchantCountryCode": 840,
+   "merchantId": 10399700000000,
+   "merchantName": "CraftsOnline.com",
+   "merchantPostalCode": 84322,
+   "merchantType": "HIGH RISK MCCs"
+ },
+ {
+   "merchantCity": "Washington",
+   "merchantCountryCode": 840,
+   "merchantId": 10407600000000,
+   "merchantName": "Round Rock Donuts",
+   "merchantPostalCode": 20004,
+   "merchantType": "HIGH RISK MCCs"
+ },
+ {
+   "merchantCity": "Los angeles",
+   "merchantCountryCode": 840,
+   "merchantId": 10399700000000,
+   "merchantName": "CraftsOnline.com",
+   "merchantPostalCode": 90004,
+   "merchantType": "HIGH RISK MCCs"
+ },
+ {
+   "merchantCity": "Phoenix",
+   "merchantCountryCode": 840,
+   "merchantId": 46338390,
+   "merchantName": "Stetsy.com",
+   "merchantPostalCode": 85004,
+   "merchantType": "HIGH RISK MCCs"
+ },
+ {
+   "merchantCity": "Santa Fe",
+   "merchantCountryCode": 840,
+   "merchantId": 395700000000,
+   "merchantName": "Rondo Shack #36552",
+   "merchantPostalCode": 87504,
+   "merchantType": "HIGH RISK MCCs"
+ },
+ {
+   "merchantCity": "Austin",
+   "merchantCountryCode": 840,
+   "merchantId": 10339300000000,
+   "merchantName": "Office Supply #65895",
+   "merchantPostalCode": 78704,
+   "merchantType": "MED RISK MCCs"
+ },
+ {
+   "merchantCity": "Biloxi",
+   "merchantCountryCode": 840,
+   "merchantId": 11114215,
+   "merchantName": "Toro Company",
+   "merchantPostalCode": 39534,
+   "merchantType": "HIGH RISK MCCs"
+ },
+ {
+   "merchantCity": "Huntsville",
+   "merchantCountryCode": 840,
+   "merchantId": 89728000000000,
+   "merchantName": "Bobs Grocer",
+   "merchantPostalCode": 35804,
+   "merchantType": "MED RISK MCCs"
+ },
+ {
+   "merchantCity": "Cleveland",
+   "merchantCountryCode": 840,
+   "merchantId": 10407600000000,
+   "merchantName": "Round Rock Donuts",
+   "merchantPostalCode": 44104,
+   "merchantType": "HIGH RISK MCCs"
+ },
+ {
+   "merchantCity": "Denver",
+   "merchantCountryCode": 840,
+   "merchantId": 10407600000000,
+   "merchantName": "Dollar Sargeant",
+   "merchantPostalCode": 80204,
+   "merchantType": "HIGH RISK MCCs"
+ },
+ {
+   "merchantCity": "Logan",
+   "merchantCountryCode": 840,
+   "merchantId": 10399700000000,
+   "merchantName": "CraftsOnline.com",
+   "merchantPostalCode": 84324,
+   "merchantType": "HIGH RISK MCCs"
+ },
+ {
+   "merchantCity": "Reno",
+   "merchantCountryCode": 840,
+   "merchantId": 10399700000000,
+   "merchantName": "CraftsOnline.com",
+   "merchantPostalCode": 89504,
+   "merchantType": "HIGH RISK MCCs"
+ },
+ {
+   "merchantCity": "Munich",
+   "merchantCountryCode": 276,
+   "merchantId": 10399700000001,
+   "merchantName": "Edeka.com",
+   "merchantPostalCode": 89504,
+   "merchantType": "HIGH RISK MCCs"
+ },
+ {
+   "merchantCity": "Berlin",
+   "merchantCountryCode": 276,
+   "merchantId": 10399700000002,
+   "merchantName": "Kaufland.com",
+   "merchantPostalCode": 10115,
+   "merchantType": "HIGH RISK MCCs"
+ },
+ {
+   "merchantCity": "Hamburg",
+   "merchantCountryCode": 276,
+   "merchantId": 10399700000003,
+   "merchantName": "Netto Marken-Discount",
+   "merchantPostalCode": 20095,
+   "merchantType": "HIGH RISK MCCs"
+ },
+ {
+   "merchantCity": " Frankfurt   ",
+   "merchantCountryCode": 276,
+   "merchantId": 10399700000004,
+   "merchantName": "Tegut-Markt",
+   "merchantPostalCode": 60306,
+   "merchantType": "HIGH RISK MCCs"
+ },
+ {
+   "merchantCity": "Stuttgart",
+   "merchantCountryCode": 276,
+   "merchantId": 10399700000005,
+   "merchantName": "Rewe.com",
+   "merchantPostalCode": 70173,
+   "merchantType": "HIGH RISK MCCs"
+ },
+ {
+   "merchantCity": "Nairobi",
+   "merchantCountryCode": 404,
+   "merchantId": 10399700000006,
+   "merchantName": "NairobiDigital.com",
+   "merchantPostalCode": 100,
+   "merchantType": "HIGH RISK MCCs"
+ },
+ {
+   "merchantCity": "Angra Dos Reis",
+   "merchantCountryCode": 76,
+   "merchantId": 10399700000007,
+   "merchantName": "Angra_Dos_Reis_Digitals.com",
+   "merchantPostalCode": 23900000,
+   "merchantType": "HIGH RISK MCCs"
+ },
+ {
+   "merchantCity": "Barra Mansa",
+   "merchantCountryCode": 76,
+   "merchantId": 10399700000008,
+   "merchantName": "Barra_Mansa_Car_wash",
+   "merchantPostalCode": 27300000,
+   "merchantType": "HIGH RISK MCCs"
+ },
+ {
+   "merchantCity": "Porto Real",
+   "merchantCountryCode": 76,
+   "merchantId": 10399700000009,
+   "merchantName": "Porto_Real_Grocery",
+   "merchantPostalCode": 27570000,
+   "merchantType": "HIGH RISK MCCs"
+ },
+ {
+   "merchantCity": "Stuttgart",
+   "merchantCountryCode": 76,
+   "merchantId": 10399700000010,
+   "merchantName": "Stuttgart Motel",
+   "merchantPostalCode": 70173,
+   "merchantType": "HIGH RISK MCCs"
+ },{
+   "merchantCity": "Moscow",
+   "merchantCountryCode": 643,
+   "merchantId": 10399700000011,
+   "merchantName": "Moscow.com",
+   "merchantPostalCode": 103426,
+   "merchantType": "HIGH RISK MCCs"
+ },
+ {
+   "merchantCity": "Saint Petersburg",
+   "merchantCountryCode": 643,
+   "merchantId": 10399700000012,
+   "merchantName": "Saint_Petersburg_Digitals.com",
+   "merchantPostalCode": 190020,
+   "merchantType": "HIGH RISK MCCs"
+ },
+ {
+   "merchantCity": "Kazan",
+   "merchantCountryCode": 643,
+   "merchantId": 10399700000013,
+   "merchantName": "Kazan_Car_wash",
+   "merchantPostalCode": 420043,
+   "merchantType": "HIGH RISK MCCs"
+ }
+]}

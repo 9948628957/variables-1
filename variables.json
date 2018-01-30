@@ -1,0 +1,20 @@
+{  
+   "entryModeCPP":[  
+      "CNP",
+      "POS",
+      "ATM"
+   ],
+   "status":[  
+      "New",
+      "Reactivated",
+      "Monitor",
+      "Watchlist",
+      "Block",
+      "Cleared"
+   ],
+   "advice":[  
+      "Watchlist",
+      "Block",
+      "Monitor"
+   ]
+}
