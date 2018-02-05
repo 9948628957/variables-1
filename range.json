@@ -27,8 +27,8 @@
       },
       {  
          "property":"numFraudAccounts",
-         "start":300,
-         "end":500
+         "start":10,
+         "end":150
       },
       {  
          "property":"numFraudPANs",
