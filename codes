@@ -1,0 +1,8 @@
+2000,"Request Fulfilled successfully","Request Fulfilled successfully",200,"SUCCESS"
+4000,"Request Fulfilled partially","Only %d out of %d requested actions could be taken, it is not possible to take action on a compromise with cards already blocked",200,"WARN"
+4001,"Request not Fulfilled","Requested action(s) could not be taken, it is not possible to take action on a compromise with cards already blocked",200,"FAILURE"
+4002,"Invalid Request","Make sure you are passing supported fields and operators",400,"FAILURE"
+4003,"Invalid Access Token", "Invalid Access Token",401,"FAILURE"
+4004,"Invalid Request format", "Invalid Request format",400,"FAILURE"
+4040,"Not Found","Requested resource not found",404,"FAILURE"
+5003,"Service Uanvailable","Backend service is down/unavailable",503,"FAILURE"
