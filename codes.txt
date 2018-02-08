@@ -1,53 +1,60 @@
 {
 [
  {
-   "2000": 4000,
-   "Request Fulfilled successfully": "Request Fulfilled partially",
-   "Request Fulfilled successfully": "Only %d out of %d requested actions could be taken, it is not possible to take action on a compromise with cards already blocked",
-   "200": 200,
-   "SUCCESS": "WARN"
+   "code": 2000,
+   "message": "Request Fulfilled successfully",
+   "developerMessage": "Request Fulfilled successfully",
+   "httpStatus": 200,
+   "status": "SUCCESS"
  },
  {
-   "2000": 4001,
-   "Request Fulfilled successfully": "Request not Fulfilled",
-   "Request Fulfilled successfully": "Requested action(s) could not be taken, it is not possible to take action on a compromise with cards already blocked",
-   "200": 200,
-   "SUCCESS": "FAILURE"
+   "code": 4000,
+   "message": "Request Fulfilled partially",
+   "developerMessage": "Only %d out of %d requested actions could be taken, it is not possible to take action on a compromise with cards already blocked",
+   "httpStatus": 200,
+   "status": "WARN"
  },
  {
-   "2000": 4002,
-   "Request Fulfilled successfully": "Invalid Request",
-   "Request Fulfilled successfully": "Make sure you are passing supported fields and operators",
-   "200": 400,
-   "SUCCESS": "FAILURE"
+   "code": 4001,
+   "message": "Request not Fulfilled",
+   "developerMessage": "Requested action(s) could not be taken, it is not possible to take action on a compromise with cards already blocked",
+   "httpStatus": 200,
+   "status": "FAILURE"
  },
  {
-   "2000": 4003,
-   "Request Fulfilled successfully": "Invalid Access Token",
-   "Request Fulfilled successfully": "Invalid Access Token",
-   "200": 401,
-   "SUCCESS": "FAILURE"
+   "code": 4002,
+   "message": "Invalid Request",
+   "developerMessage": "Make sure you are passing supported fields and operators",
+   "httpStatus": 400,
+   "status": "FAILURE"
  },
  {
-   "2000": 4004,
-   "Request Fulfilled successfully": "Invalid Request format",
-   "Request Fulfilled successfully": "Invalid Request format",
-   "200": 400,
-   "SUCCESS": "FAILURE"
+   "code": 4003,
+   "message": "Invalid Access Token",
+   "developerMessage": "Invalid Access Token",
+   "httpStatus": 401,
+   "status": "FAILURE"
  },
  {
-   "2000": 4040,
-   "Request Fulfilled successfully": "Not Found",
-   "Request Fulfilled successfully": "Requested resource not found",
-   "200": 404,
-   "SUCCESS": "FAILURE"
+   "code": 4004,
+   "message": "Invalid Request format",
+   "developerMessage": "Invalid Request format",
+   "httpStatus": 400,
+   "status": "FAILURE"
  },
  {
-   "2000": 5003,
-   "Request Fulfilled successfully": "Service Uanvailable",
-   "Request Fulfilled successfully": "Backend service is down/unavailable",
-   "200": 503,
-   "SUCCESS": "FAILURE"
+   "code": 4040,
+   "message": "Not Found",
+   "developerMessage": "Requested resource not found",
+   "httpStatus": 404,
+   "status": "FAILURE"
+ },
+ {
+   "code": 5003,
+   "message": "Service Uanvailable",
+   "developerMessage": "Backend service is down/unavailable",
+   "httpStatus": 503,
+   "status": "FAILURE"
  }
 ]
 }
