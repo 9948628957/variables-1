@@ -942,6 +942,94 @@
    "merchantName": "Kazan_Car_wash",
    "merchantPostalCode": 420043,
    "merchantType": "HIGH RISK MCCs"
+ },
+  {
+   "merchantCity": "Chengdu",
+   "merchantCountryCode": 156,
+   "merchantId": 395700000000,
+   "merchantName": "CCBill.com * ہوٹل",
+   "merchantPostalCode": 610000,
+   "merchantType": "HIGH RISK MCCs"
+ },
+ {
+   "merchantCity": "Kolkata",
+   "merchantCountryCode": 356,
+   "merchantId": 745501000006402,
+   "merchantName": "CCBill.com * হোটেল",
+   "merchantPostalCode": 700028,
+   "merchantType": "HIGH RISK MCCs"
+ },
+ {
+   "merchantCity": "Hong Kong",
+   "merchantCountryCode": 156,
+   "merchantId": 745501034810000,
+   "merchantName": "CCBill.com *酒店",
+   "merchantPostalCode": 518000,
+   "merchantType": "HIGH RISK MCCs"
+ },
+ {
+   "merchantCity": "Pogathika",
+   "merchantCountryCode": 643,
+   "merchantId": 745501562000000,
+   "merchantName": "CCBill.com * Отель",
+   "merchantPostalCode": 606730,
+   "merchantType": "HIGH RISK MCCs"
+ },
+ {
+   "merchantCity": "Bangalore",
+   "merchantCountryCode": 356,
+   "merchantId": 745501000091000,
+   "merchantName": "CCBill.com * ಹೋಟೆಲ್",
+   "merchantPostalCode": 560056,
+   "merchantType": "HIGH RISK MCCs"
+ },
+ {
+   "merchantCity": "Delhi",
+   "merchantCountryCode": 840,
+   "merchantId": 745501009600000,
+   "merchantName": "CCBill.com * होटल",
+   "merchantPostalCode": 110012,
+   "merchantType": "HIGH RISK MCCs"
+ },
+ {
+   "merchantCity": "Byaroza",
+   "merchantCountryCode": 112,
+   "merchantId": 745501003450000,
+   "merchantName": "CCBill.com * Гатэль",
+   "merchantPostalCode": 225210,
+   "merchantType": "HIGH RISK MCCs"
+ },
+ {
+   "merchantCity": "Nesebar",
+   "merchantCountryCode": 100,
+   "merchantId": 745501089500000,
+   "merchantName": "CCBill.com * хотел",
+   "merchantPostalCode": 8230,
+   "merchantType": "HIGH RISK MCCs"
+ },
+ {
+   "merchantCity": "Ho Chi Minh",
+   "merchantCountryCode": 704,
+   "merchantId": 745501000987000,
+   "merchantName": "CCBill.com * Khách sạn",
+   "merchantPostalCode": 70000,
+   "merchantType": "HIGH RISK MCCs"
+ },
+ {
+   "merchantCity": "Anushavan",
+   "merchantCountryCode": 51,
+   "merchantId": 745501667600000,
+   "merchantName": "CCBill.com * հյուրանոց",
+   "merchantPostalCode":  3008,
+   "merchantType": "HIGH RISK MCCs"
+ },
+ {
+   "merchantCity": "Paris",
+   "merchantCountryCode": 250,
+   "merchantId": 745501009810000,
+   "merchantName": "CCBill.com * Hôtel",
+   "merchantPostalCode": 75001,
+   "merchantType": "HIGH RISK MCCs"
  }
 ]
 }
