@@ -12,7 +12,7 @@
    "message": "Request Fulfilled partially",
    "developerMessage": "Only %d out of %d requested actions could be taken, it is not possible to take action on a compromise with cards already blocked",
    "httpStatus": 200,
-   "status": "WARN"
+   "status": "WARNING"
  },
  {
    "code": 400.1,
