@@ -2,56 +2,56 @@
 "messages":[
  {
    "code": 200.0,
-   "message": "Request Fulfilled successfully",
+   "message": "Request fulfilled successfully",
    "developerMessage": "Request Fulfilled successfully",
    "httpStatus": 200,
    "status": "SUCCESS"
  },
  {
    "code": 400.0,
-   "message": "Request Fulfilled partially",
+   "message": "Request fulfilled partially",
    "developerMessage": "Only %d out of %d requested actions could be taken, it is not possible to take action on a compromise with cards already blocked",
    "httpStatus": 200,
    "status": "WARNING"
  },
  {
    "code": 400.1,
-   "message": "Request not Fulfilled",
+   "message": "Request not fulfilled",
    "developerMessage": "Requested action(s) could not be taken, it is not possible to take action on a compromise with cards already blocked",
    "httpStatus": 200,
    "status": "FAILURE"
  },
  {
    "code": 400.2,
-   "message": "Invalid Request",
+   "message": "Invalid request",
    "developerMessage": "Make sure you are passing supported fields and operators",
    "httpStatus": 400,
    "status": "FAILURE"
  },
  {
    "code": 400.3,
-   "message": "Invalid Access Token",
-   "developerMessage": "Invalid Access Token",
+   "message": "Invalid access token",
+   "developerMessage": "Invalid access token",
    "httpStatus": 401,
    "status": "FAILURE"
  },
  {
    "code": 400.4,
-   "message": "Invalid Request format",
-   "developerMessage": "Invalid Request format",
+   "message": "Invalid request format",
+   "developerMessage": "Invalid request format",
    "httpStatus": 400,
    "status": "FAILURE"
  },
  {
    "code": 404.0,
-   "message": "Not Found",
+   "message": "Not found",
    "developerMessage": "Requested resource not found",
    "httpStatus": 404,
    "status": "FAILURE"
  },
  {
    "code": 500.3,
-   "message": "Service Uanvailable",
+   "message": "Service uanvailable",
    "developerMessage": "Backend service is down/unavailable",
    "httpStatus": 503,
    "status": "FAILURE"
