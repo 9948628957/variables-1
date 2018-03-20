@@ -55,6 +55,13 @@
    "developerMessage": "Backend service is down/unavailable",
    "httpStatus": 500,
    "status": "FAILURE"
+ },
+ {
+   "code": "005",
+   "message": "Message enqueue time out",
+   "developerMessage": "Either mesaage broker is down or timed out",
+   "httpStatus": 500,
+   "status": "FAILURE"
  }
 ]
 }
