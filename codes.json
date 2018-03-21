@@ -62,6 +62,13 @@
    "developerMessage": "Either mesaage broker is down or timed out",
    "httpStatus": 500,
    "status": "FAILURE"
+ },
+ {
+   "code": "006",
+   "message": "Could not create all action records requested (Kafka interaction failed)",
+   "developerMessage": "Either mesaage broker is down or timed out",
+   "httpStatus": 500,
+   "status": "FAILURE"
  }
 ]
 }
