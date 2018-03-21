@@ -2,25 +2,33 @@
 "messages":[
  {
    "code": "011",
-   "message": "Request fulfilled successfully",
-   "developerMessage": "Request Fulfilled successfully",
+   "message": "Requested action(s) have been taken successfully",
+   "developerMessage": "Requested action(s) have been taken successfully",
    "httpStatus": 200,
    "status": "SUCCESS"
  },
  {
    "code": "012",
-   "message": "Request fulfilled partially",
-   "developerMessage": "Only %d out of %d requested actions could be taken, it is not possible to take action on a compromise with cards already blocked",
+   "message": "Not all requested Block action(s) could be taken as some compromise(s) were already blocked ",
+   "developerMessage": "Not all requested Block action(s) could be taken as some compromise(s) were already blocked ({%d} out of {%d} succeeded)",
    "httpStatus": 200,
    "status": "WARNING"
  },
  {
    "code": "013",
-   "message": "Request not fulfilled",
-   "developerMessage": "Requested action(s) could not be taken, it is not possible to take action on a compromise with cards already blocked",
+   "message": "Not all requested action(s) could be taken as some compromise(s) were already in the same state as that requested",
+   "developerMessage": "Not all requested action(s) could be taken as some compromise(s) were already in the same state as that requested ({%d} out of {%d} succeeded)",
+   "httpStatus": 200,
+   "status": "WARNING"
+ },
+ {
+   "code": "017",
+   "message": "Requested action(s) have been failed",
+   "developerMessage": "All the requested action(s) failed as all of them are in same state",
    "httpStatus": 200,
    "status": "FAILURE"
  },
+ 
  {
    "code": "009",
    "message": "Invalid request",
