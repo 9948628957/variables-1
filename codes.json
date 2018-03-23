@@ -77,6 +77,20 @@
    "developerMessage": "Either mesaage broker is down or timed out",
    "httpStatus": 500,
    "status": "FAILURE"
+ },
+ {
+   "code": "022",
+   "message": "Requested action(s) have been failed.",
+   "developerMessage": "None of the requested action(s) could be taken as downstream service stopped responding",
+   "httpStatus": 500,
+   "status": "FAILURE"
+ },
+ {
+   "code": "023",
+   "message": "Not all requested action(s) could be taken.",
+   "developerMessage": "Not all requested action(s) could be taken as downstream service stopped responding",
+   "httpStatus": 200,
+   "status": "WARNING"
  }
 ]
 }
