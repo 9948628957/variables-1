@@ -23,8 +23,8 @@
  },
  {
    "code": "017",
-   "message": "Requested action(s) failed as all compromise(s) were already blocked or in the requested state",
-   "developerMessage": "Requested action(s) failed as all compromise(s) were already blocked or in the requested state ({%d} out of {%d} succeeded)",
+   "message": "Requested action(s) failed as selected compromise(s) were already blocked or in the requested state",
+   "developerMessage": "Requested action(s) failed as selected compromise(s) were already blocked or in the requested state ({%d} out of {%d} succeeded)",
    "httpStatus": 200,
    "status": "FAILURE"
  },
